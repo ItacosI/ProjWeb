@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
  <html>
 	
 	<!-- Affichage Dans l'onglet et choix des caractères-->
@@ -97,13 +97,12 @@
 				
 			
 				
-					<section id="label_festival"><!-- présentation du festival-->
+					<section id="label_festival" class = "bloc_bleu" ><!-- présentation du festival-->
 							<figure class="apercu">
 						<img
 							src="images/imgLieuVeauceManoirEtEglise.jpg"
 							alt="[photo De Veauce]"
-							width=100%
-							height=100%
+						
 							
 					> <figcaption>Photographe&#8239;: Sébastien Tixeuil </figcaption>
 				</figure>
@@ -111,8 +110,7 @@
 				<img
 							src="images/imgSpectacleLeChateauDeMaMere1.jpg"
 							alt="[photo de spectacle]"
-							width=100%
-							height=100%
+					
 							
 					> <figcaption>Photographe&#8239;: Alejandro Guerrero </figcaption>
 				</figure>
@@ -127,8 +125,7 @@
 				<img
 							src="images/imgSpectaclePromesseDanse.jpg"
 							alt="[photo Du spectacle]"
-							width=100%
-							height=100%
+			
 							
 					>
 					<figcaption>Photographe&#8239;: Simon Gosselin </figcaption>
@@ -161,8 +158,7 @@
 				<img
 							src="images/imgLieuVeauceTournebride.jpg"
 							alt="[photo Manoir des noix]"
-							width=100%
-							height=100%
+						
 							decoding=low
 					><figcaption>Photographe&#8239;: Sébastien Tixeuil </figcaption>
 				</figure> <!--class="apercu"-->
@@ -171,8 +167,7 @@
 				<img
 							src="images/imgSpectaclePromesse1.jpg"
 							alt="[photo Du spectacle la promesse de l'Aube]"
-							width=100%
-							height=100%
+						
 							decoding=low
 					><figcaption>Photographe&#8239;: Simon Gosselin </figcaption>
 				</figure>
@@ -187,8 +182,7 @@
 					<img
 							src="images/imgSpectacleLOurs3.jpg"
 							alt="[photo de Spectacle]"
-							width=100%
-							height=100%
+							
 							decoding=low
 					>
 				</figure>	
@@ -199,14 +193,13 @@
 					<img
 							src="images/imgLieuVeauceEglise2.jpg"
 							alt="[photo eglise de veauce]"
-							width=100%
-							height=100%
+						
 							decoding=low
 					><figcaption>Photographe&#8239;: Sébastien Tixeuil </figcaption>
 					</figure>
 
 	
-	<section id="label_carteBlanche"><!--section carte blanche-->
+	<section id="label_carteBlanche" class = "bloc_bleu"><!--section carte blanche-->
 		<h2>Carte blanche</h2>
 					<h3>		
 Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festival ?
@@ -215,8 +208,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<img
 							src="images/imgSpectacleAfficheTitreProvisoire.jpg"
 							alt="[photo de Spectacle]"
-							width=100%
-							height=100%
+					
 					>
 				</figure>
 					</h3>
@@ -228,8 +220,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<figure class="apercu">		<img
 								src="images/imgSpectacleTitreProvisoire5.jpg"
 								alt="[photo de Spectacle]"
-								width=100%
-								height=100%
+						
 						>
 					</figure>
 				</h3>
@@ -240,8 +231,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<img
 							src="images/imgSpectacleTitreProvisoire2.jpg"
 							alt="[photo de Spectacle]"
-							width=100%
-							height=100%
+				
 							
 					>
 				</figure>
@@ -249,26 +239,21 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<img
 							src="images/imgSpectacleTitreProvisoire7.jpg"
 							alt="[photo de Spectacle]"
-							width=100%
-							height=100%
-							
+						
 					>
+							
 				</figure>
 				<figure class="apercu">				
 					<img
 							src="images/imgSpectacleTitreProvisoire10.jpg"
 							alt="[photo de Spectacle]"
-							width=100%
-							height=100%
-							
+					
 					>
 				</figure>
 				<figure class="apercu">				
 					<img
 							src="images/imgSpectacleTitreProvisoire12.jpg"
 							alt="[photo de Spectacle]"
-							width=100%
-							height=100%
 							
 					>
 				</figure>
@@ -277,9 +262,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<img
 							src="images/imgSpectacleTitreProvisoire1.jpg"
 							alt="[photo de Spectacle]"
-							width=100%
-							height=100%
-							
+						
 					>
 				</figure>
 				
@@ -287,8 +270,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<img
 							src="images/imgSpectacleTitreProvisoire3.jpg"
 							alt="[photo de Spectacle]"
-							width=100%
-							height=100%
+					
 							
 					>
 				</figure>
@@ -296,8 +278,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<img
 							src="images/imgSpectacleTitreProvisoire4.jpg"
 							alt="[photo de Spectacle]"
-							width=100%
-							height=100%
+							
 							
 					>
 				</figure>
@@ -305,9 +286,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<img
 							src="images/imgSpectacleTitreProvisoire6.jpg"
 							alt="[photo de Spectacle]"
-							width=100%
-							height=100%
-							
+						
 					>
 				</figure>
 
@@ -315,8 +294,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<img
 							src="images/imgSpectacleTitreProvisoire8.jpg"
 							alt="[photo de Spectacle]"
-							width=100%
-							height=100%
+						
 							
 					>
 				</figure>
@@ -324,8 +302,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<img
 							src="images/imgSpectacleTitreProvisoire9.jpg"
 							alt="[photo de Spectacle]"
-							width=100%
-							height=100%
+							
 							
 					>
 				</figure>
@@ -333,8 +310,6 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<img                
 							src="images/imgSpectacleTitreProvisoire11.jpg"
 							alt="[photo de Spectacle]"
-							width=100%
-							height=100%
 							
 					>
 				</figure>
@@ -342,8 +317,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<img
 							src="images/imgSpectacleTitreProvisoire.jpg"
 							alt="[photo de Spectacle]"
-							width=100%
-							height=100%
+					
 					>
 				</figure>
 				<p>
@@ -357,7 +331,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 				</p>
 					
 			</section><!--section carte blanche-->
-			<section id="label_association"><!-- section présentation de l'association-->	
+			<section id="label_association" class = "bloc_bleu"><!-- section présentation de l'association-->	
 					<h1>L'association</h1>
 					
 					<p>Fondée par un groupe de 34 bénévoles, l'association théâtres de Bourbon est une association loi 1901 
@@ -375,54 +349,25 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					</p>
 
 					<p>	La cotisation de base est de 10 euros.
-						Vos pouvez également devenir membre bienfaiteur (ou membre bienfaitrice) en vous engageant pendat au moins trois ans à payer une cotisation triple de la cotisation de base et en faisant un don d'au moins 200 euros (ces seuils sont abaissées à 15 et 145 euros pour les moins de 25 ans, les chomeurs, les invalides et les titulaires de minima sociaux). Pour devenir membre nous vous demandons de nous tranmettre vos noms, adresse postale, adresse électronique et téléphone et de payer le montant qui correspond à la catégorie que vous aurez choisie. En payant par carte bancaire le formaulaire à remplir vous sera proposer par notre partenaire helloAsso.
-						Attention le site de paiement que nous utilisons vous demande un pourboire, celui ci ne nous est pas reversé! 
-		Vous pouvez le mettre à 0 si vous le souhaitez. 
+						Vos pouvez également devenir membre bienfaiteur (ou membre bienfaitrice) en vous engageant pendat au moins trois ans à payer une cotisation triple de la cotisation de base et en faisant un don d'au moins 200 euros (ces seuils sont abaissées à 15 et 145 euros pour les moins de 25 ans, les chomeurs, les invalides et les titulaires de minima sociaux). Pour devenir membre nous vous demandons de nous tranmettre vos noms, adresse postale, adresse électronique et téléphone et de payer le montant qui correspond à la catégorie que vous aurez choisie.
+						
 					</p>
 		
 
-						<ul>
-							<li>soit par virement bancaire sur le compte de l'association et message via une des adresses de la rubrique nous contacter.
-							</li>	
-							<li>soit par carte bancaire en cliquant sur sur un des liens suivants.
-								<a href="cotisation2019.php">
-								Payer sa cotisation et/ou donner par carte bancaire</a>
-							</li>
-						</ul>
-
-										<h3>cotisation de base pour membre simple 10€
-											<div>
-											<iframe id="haWidgetButton" src="https://www.helloasso.com/associations/theatres-de-bourbon/paiements/cotisation-de-base/widget-bouton" style="border: none;">
-											</iframe>
-											</div>
-										</h3>
-										
-										<h3>cotisation de base pour membre bienfaiteur jeune de moins de 25 ans  ou chomeur 15€
-											<div>		
-											<iframe id="haWidgetButton" src="https://www.helloasso.com/associations/theatres-de-bourbon/paiements/base-bienfaiteur-jeune-ou-chomeur/widget-bouton" style="border: none;"></iframe>
-										</div>
-										</h3>
-										<h3>cotisation de base pour membre bienfaiteur adulte 30€
-										<div>
-										<iframe id="haWidgetButton" src="https://www.helloasso.com/associations/theatres-de-bourbon/paiements/base-pour-devenir-bienfaiteur/widget-bouton" style="border: none;"></iframe>
-										</div>
-										</h3>	
+						
 										
 					<p id="label_faireUnDon">	
 						Via la même procedure vous pouvez aussi faire un don à l'association sans atteindre ou en dépassant largement les montants définis pour les membres bienfaiteurs. Du fait de l'objet de l'association, les dons à l'association sont sujets à la délivrance de reçu fiscal dans l'espoir d'une réduction d'impôt pour ceux qui ont la chance d'en payer.
 					</p>
 					<h3>
 											donation pour devenir membre bienfaiteur ou juste pour aider, choissisez votre montant 	
-											<div>
-										<iframe id="haWidgetButton" src="https://www.helloasso.com/associations/theatres-de-bourbon/paiements/don-pour-devenir-bienfaiteur/widget-bouton" style="border: none;"></iframe> 
-									</div>
+										
 								</h3>	
 					<figure class="apercu">
 					<img
 							src="images/imgSpectaclePortRacines.jpg"
 							alt="Photo de spectacle"
-							width=100%
-							height=100%
+						
 							
 					><figcaption>Photographe&#8239;: JC Pratt </figcaption>
 					</figure>
@@ -431,8 +376,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<img
 							src="images/imgLieuVeaucePointes.jpg"
 							alt="[Photo des toits de Veauce]"
-							width=100%
-							height=100%
+						
 							
 					><figcaption>Photographe&#8239;: Sébastien Tixeuil </figcaption>
 					</figure>
@@ -450,8 +394,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<img
 							src="images/imgSpectacleProphete2.jpg"
 							alt="photo de spectacle"
-							width=100%
-							height=100%
+					
 							
 					>
 				</figure>
@@ -461,8 +404,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					<img
 							src="images/imgLieuIdogne1.jpg"
 							alt="photo de Lieu"
-							width=100%
-							height=100%
+						
 							
 					>
 				</figure>
@@ -470,7 +412,7 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 					
 				</section><!-- présentation de l'association-->
 
-				<section id="label_contact"><!-- section Nous contacter-->
+				<section id="label_contact" class = "bloc_bleu"><!-- section Nous contacter-->
 				
 						<h3>Nous contacter</h3>
 						<p>Les membres du bureau de l'association (par ordre alphabétique)&#8239;: 
