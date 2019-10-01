@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
  <html>
 	
 	<!-- Affichage Dans l'onglet et choix des caractères-->
@@ -45,7 +45,7 @@
 			<li><a href="Festival2018ProgrammationParLieu.php">Lieu par Lieu</a></li>
 			<li><a href="Festival2018ProgrammationParSpectacle.php">Spectacles</a></li>
 			<li><a href="Festival2019Tarifs.php">Tarifs</a> </li>
-			<!--<li><a href="Festival2018ProgrammationVueGlobale.php">Planning</a> </li>-->		  
+  
 		</ul>
 
 
@@ -85,112 +85,7 @@
 				</li>	
 							
 			</ul>
-		</div><!--menu-->
-		<!--				<div class="patchwork">
-<div id="ContenantVignetteP">
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAfficheBarbara.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%
-							
-					>
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAfficheLeChateauDeMaMere.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%
-							
-					>
-					
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAfficheOurs.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%		
-					>
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAfficheFricassee.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%
-					>
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAfficheMlleJulie.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%
-					>
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAfficheHugo.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%
-					>
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAfficheProphete.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%
-					>
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAfficheMariage.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%
-					>
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAfficheLaGloireDeMonPere.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%
-					>
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAffichePortRacines.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%
-					>
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAfficheTartuffe.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%
-					>
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAfficheMarchandDeVenise.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%
-					>
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAfficheSoliloquesMariette.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%
-					>
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAfficheConfessions.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%		
-					>
-					<img  	class="vignetteP"
-							src="images/imgSpectacleAfficheLaPromesse.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%
-					>
-					<img  	class="vignetteP"
-							src="images/imgSpectacleTitreProvisoire5.jpg"
-							alt="[ Affiche de spectacle    ]"
-							width=30%
-							height=30%
-					>
-					
-					
-			</div><!--Vignette-->
-			
+		</div>
 		</div ><!--pachtwork-->-->
 		
   
@@ -238,16 +133,7 @@
 					>
 					<figcaption>Photographe&#8239;: Simon Gosselin </figcaption>
 				</figure>
-				<!--<figure class="apercu">
-				<img
-							src="images/imgLieuQuerye1.jpg"
-							alt="[photo du domaine de la Querye]"
-							width=100%
-							height=100%
-							decoding=low
-					>
-				</figure>
-				-->
+	
 						<h1>Le festival</h1>	
 					
 						<p>
@@ -626,8 +512,8 @@ Pourquoi une carte blanche à une toute jeune troupe dans le cadre de ce festiva
 		
 	<footer>
 		Presentation
-	<!-- Signer et dater la page, c'est une question de politesse! -->
-		<address>Page conçue par Sylvie Delaët 25 novembre 2018, textes Pierre Deusy.</address>
+	
+		<address>Page conçue par Kevin HUART et Mathilde VERRIEZ CHASTANG</address>
 
 
 	</footer>
