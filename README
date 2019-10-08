@@ -26,3 +26,21 @@ https://cryptpad.fr/code/#/2/code/edit/1iVIuzvZLy3GcNUML7G58j4B/
 
 reservation.php
 https://cryptpad.fr/code/#/2/code/edit/amAILm3MLxgs4ebdfqFi-xaj/
+
+
+
+
+===== A faire =====
+
+Réservation:
+  -pour le php :
+    +lire le fichier csv
+    +interpréter chaque lignes et transformer en tableau/array
+    +trier et afficher par dates
+    +form pour la selection
+  -pour le JS:
+    +passer en parametre le nb de choix possible
+    +construire JSON avec les checkbox sur "True"
+    +calculer la possibilité d'assister à tout les spectacles (test 2 a 2)
+    +afficher msg avertissement si conflit
+    
