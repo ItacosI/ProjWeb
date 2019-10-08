@@ -35,7 +35,7 @@ https://cryptpad.fr/code/#/2/code/edit/amAILm3MLxgs4ebdfqFi-xaj/
 Réservation:
   -pour le php : | |
     +lire le fichier csv |X|
-    +interpréter chaque lignes et transformer en tableau/array | |
+    +interpréter chaque lignes et transformer en tableau/array |X|
     +trier et afficher par dates | |
     +form pour la selection | |
     +introduire emplacement pour msg avertissement | |
@@ -44,4 +44,23 @@ Réservation:
     +construire JSON avec les checkbox sur "True" | |
     +calculer la possibilité d'assister à tout les spectacles (test 2 a 2) | |
     +afficher msg avertissement si conflit | |
+    
+    
+$CHOIX = [];
+$ligne = 0;
+if (($handle = fopen("ResultatsFestival.csv", "r")) !== FALSE) {
+    ($data = fgetcsv($handle, 1000, ",");
+    while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+    	$CHOIX[$ligne] = $data;
+    	$ligne++;
+
+        /*$num = count($data);
+        echo "<p> $num fields in line $row: <br /></p>\n";
+        $row++;
+        for ($c=0; $c < $num; $c++) {
+            echo $data[$c] . "<br />\n";
+        }*/
+    }
+    fclose($handle);
+}
     
