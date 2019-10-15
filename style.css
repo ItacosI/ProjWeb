@@ -69,6 +69,17 @@ section, article, aside, header, footer, nav, hgroup {
   display: block;
 }
  
+ /*bloc en bleu */
+.bloc_bleu {
+	border:1px solid white;
+	border-radius:2em;
+	text-align: justify;
+	padding: 1em 1em 1em 1em;
+	margin-bottom: 2em;
+	background-color:#0f3187; /*bleu contraste*/
+} 
+
+ 
 h1 {
  font-size: 200%; 
  color: white;
