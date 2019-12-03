@@ -1,10 +1,8 @@
-
-
-	<?php		function AfficheCSV(){
+<?php		function AfficheCSV(){
 				header('Content-Type:application/json');	
 				$CHOIX = [];
 				$ligne = 0;
-				if (($handle = fopen("../CSV/ResultatsFestival.csv", "r")) !== FALSE) {
+				if (($handle = fopen("ResultatsFestival.csv", "r")) !== FALSE) {
 					$data = fgetcsv($handle, 1000, ",");
 					while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
 						$CHOIX[$ligne] = $data;
@@ -25,7 +23,7 @@
 				$CHOIX = [];
 				$ligne = 0;
 				$tab = [];
-				if (($handle = fopen("../CSV/ResultatsFestival.csv", "r")) !== FALSE) {
+				if (($handle = fopen("ResultatsFestival.csv", "r")) !== FALSE) {
 					$data = fgetcsv($handle, 1000, ",");
 					while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
 						$CHOIX[$ligne] = $data;
@@ -45,8 +43,5 @@
 			}
 			
 		AffichePlaces();
-
-
 	
 ?>
-
